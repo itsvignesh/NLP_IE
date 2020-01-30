@@ -1,0 +1,15 @@
+NLP Resources & articles
+https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e
+
+https://www.machinelearningisfun.com/
+
+IE with NLP
+https://www.analyticsvidhya.com/blog/2019/09/introduction-information-extraction-python-spacy/
+
+
+Python Libraries for DS-ML:
+1. Aethos
+2. Streamlit
+3. Dataist
+4. AutoViML
+5. AutoViz
